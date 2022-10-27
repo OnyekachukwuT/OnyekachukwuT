@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Onyekachukwu ThankGod
-- 👀 I’m interested in Front-End Web Development project
+- 👀 I’m interested in Front-End Web Development projects
 - 🌱 I’m currently learning advance programming
-- 💞️ I’m looking to collaborate with likeminds to speed up my learning process.
+- 💞️ I’m look forward to collaborating with likeminds so as to speed up my learning process.
 - 📫 How to reach me ...Connect with me via github.com/OnyekachukwuT
 
 <!---
